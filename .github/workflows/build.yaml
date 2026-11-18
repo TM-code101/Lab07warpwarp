@@ -11,3 +11,22 @@ jobs:
         uses: actions/checkout@v4
       - name: Show directory
         run: pwd
+
+        student-it-knowledge-base/
+├── index.html
+├── README.md
+├── styles.css
+├── docs/
+│   ├── prg1/
+│   │   └── dotnet-cli.md
+│   ├── ukos/
+│   │   └── bash.md
+│   └── warp/
+│       └── git.md
+└── pages/
+    ├── bash.html
+    ├── git.html
+    └── dotnet-cli.html
+
+
+    
